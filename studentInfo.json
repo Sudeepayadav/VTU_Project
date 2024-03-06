@@ -1,0 +1,35 @@
+{
+    "studentInfo":[
+        {
+            "_id":1,
+            "registerId":"1SM24001",
+            "Name":"Pavan",
+            "Father Name":"Narayan",
+            "College Name":"VTU"
+        },
+
+        {
+            "_id":2,
+            "registerId":"1SM24002",
+            "Name":"Punith",
+            "Father Name":"Raj",
+            "College Name":"VTU"
+        },
+
+        {
+            "_id":3,
+            "registerId":"1SM24003",
+            "name":"Lokesh m",
+            "fatherName":"Manjunath",
+            "collegeName":"VTU"
+        },
+
+        {
+            "_id":4,
+            "registerId":"1SM24004",
+            "name":"Jithendra",
+            "fatherName":"krishna",
+            "collegeName":"VTU"
+        }
+    ]
+}

@@ -1,6 +1,7 @@
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import { Container } from "react-bootstrap";
+import { Outlet } from "react-router-dom";
 
 
 
@@ -9,11 +10,12 @@ function App() {
    <>
    <Header/>
    <Container>
-    <main>
-
-    </main>
-   </Container>
+      <main>
+        <Outlet />
+      </main>
+    </Container>
    <Footer/>
+
    </>
   );
 }
